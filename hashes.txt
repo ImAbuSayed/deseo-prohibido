@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo prohibido
+
+This log tracks the cryptographic history and versioning for the song **Deseo prohibido** (deseo-prohibido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:38:12.537860 | `v1` | `50f9607c8329159061365ccdd2104e54e6deaee1b87c456da29e74c81b8b59a0` | `56bbdca4eec0e76533600f41ce1a3f106b63fefb36d1f9d60816583e5f4d3406` | `2026-06-16_deseo-prohibido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
