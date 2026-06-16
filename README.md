@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Deseo prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-prohibido/) |
+| **Get License** | [Music Rights & Licensing for Deseo prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada tuya es un peligro, no te miento
+> Tú eres el fuego oscuro que me quema a fuego lento
+> Baby, tú y yo tenemos un deseo prohibido
+> Esta noche soy tu dueño, baby, vente conmigo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
